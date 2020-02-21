@@ -10,7 +10,7 @@
       <p><b>wangbx@pku.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/pro_small_1.jpg" width="100%">      
+      <img src="/pro_small_1.jpg" width="200%">      
     </td>
   </tr>
 </table>
