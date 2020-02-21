@@ -1,6 +1,6 @@
 ## Welcome to Binguxuan Wang's Blog
 
-
+<div>
 <table border="0">
   <tr>
     <td width="70%">
@@ -14,7 +14,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
