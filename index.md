@@ -8,9 +8,9 @@ Yuanpei College, Peking University
 
 wangbx@pku.edu.cn
 
-|**Bingxuan Wang**<br/>B.S. Data Science and Big Data Technology<br/>Yuanpei College, Peking University<br/>wangbx@pku.edu.cn|![photo](pro_small_1.jpg)" =400x"|
+|**Bingxuan Wang**<br/>B.S. Data Science and Big Data Technology<br/>Yuanpei College, Peking University<br/>wangbx@pku.edu.cn|![photo](pro_small_1.jpg)|
 |:-:|:-:|
-
+| | |
 
 ### Markdown
 
