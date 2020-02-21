@@ -8,38 +8,16 @@ Yuanpei College, Peking University
 
 wangbx@pku.edu.cn
 
-|**Bingxuan Wang**<br/>B.S. Data Science and Big Data Technology<br/>Yuanpei College, Peking University<br/>wangbx@pku.edu.cn|![photo](pro_small_1.jpg)|
-|:-:|:-:|
-| | |
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Introduction
 
-```markdown
-Syntax highlighted code block
+I'm a junior student from Yuanpei College, Peking University major in data science and minor in economy. You can check my CV at [CV](https://github.com/DOGEwbx/DOGEwbx.github.io/blob/master/cv_2.21.pdf), you can also check my [dblp](https://dblp.org/pers/hd/w/Wang:Bingxuan) page to learn about some of my current works.
 
-# Header 1
-## Header 2
-### Header 3
+I used to do some reasearches in OCR and knowledge distillation. Recently my interest comes to federated learning and block chain. If you are curious about these areas, you can email me and we can share some learning materials or ideas together.
 
-- Bulleted
-- List
+As a guy with strong curiousity, i'd like to explore everything I haven't experienced. So please let me know if you have any crazy thoughts! Usually I can give you some useful feedback.
 
-1. Numbered
-2. List
+## Something Personal
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DOGEwbx/DOGEwbx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am a fan of Royal Never Give Up, an e-sports team of League of Legend. 
