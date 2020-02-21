@@ -12,7 +12,7 @@ wangbx@pku.edu.cn
 
 ## Introduction
 
-I'm a junior student from Yuanpei College, Peking University major in data science and minor in economy. You can check my CV at [CV](https://github.com/DOGEwbx/DOGEwbx.github.io/blob/master/cv_2.21.pdf), you can also check my [dblp](https://dblp.org/pers/hd/w/Wang:Bingxuan) page to learn about some of my current works.
+I'm a junior student from Yuanpei College, Peking University major in data science and minor in economy. You can check my CV at [CV](https://drive.google.com/open?id=1WiPJp24u0azULi5Q7JzUngc6SQGNJjTH), you can also check my [dblp](https://dblp.org/pers/hd/w/Wang:Bingxuan) page to learn about some of my current works.
 
 I used to do some reasearches in OCR and knowledge distillation. Recently my interest comes to federated learning and block chain. If you are curious about these areas, you can email me and we can share some learning materials or ideas together.
 
