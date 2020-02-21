@@ -1,10 +1,10 @@
-## Welcome to Binguxuan Wang's Blog
+## Welcome to Binguxuan's Homepage
 
 <div>
 <table border="0">
   <tr>
     <td width="70%">
-      <h2>Bingxuan Wang</h2>
+      <p><b>Bingxuan Wang</p></b>
       <p><b>B.S. Data Science and Big Data Technology</b></p>
       <p><b>Yuanpei College, Peking University</b></p>
       <p><b>wangbx@pku.edu.cn</b></p>
