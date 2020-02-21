@@ -9,8 +9,8 @@
       <p><b>Yuanpei College, Peking University</b></p>
       <p><b>wangbx@pku.edu.cn</b></p>
     </td>
-    <td width="30%">
-      <img src="/pro_small_1.jpg" width="70%">      
+    <td width="30%" align="center">
+      <img src="/pro_small_1.jpg" width="100%">      
     </td>
   </tr>
 </table>
