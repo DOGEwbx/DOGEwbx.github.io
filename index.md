@@ -1,20 +1,12 @@
 ## Welcome to Binguxuan's Homepage
+![photo]("/pro_small_1.jpg")**Bingxuan Wang**
 
-<div>
-<table border="0">
-  <tr>
-    <td width="70%">
-      <p><b>Bingxuan Wang</b></p>
-      <p><b>B.S. Data Science and Big Data Technology</b></p>
-      <p><b>Yuanpei College, Peking University</b></p>
-      <p><b>wangbx@pku.edu.cn</b></p>
-    </td>
-    <td width="30%">
-      <img src="/pro_small_1.jpg" width="100%" align="middle">      
-    </td>
-  </tr>
-</table>
-</div>
+B.S. Data Science and Big Data Technology
+
+Yuanpei College, Peking University
+
+wangbx@pku.edu.cn
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
