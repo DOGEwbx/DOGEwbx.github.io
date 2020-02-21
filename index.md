@@ -4,7 +4,7 @@
 <table border="0">
   <tr>
     <td width="70%">
-      <p><b>Bingxuan Wang</p></b>
+      <p><b>Bingxuan Wang</b></p>
       <p><b>B.S. Data Science and Big Data Technology</b></p>
       <p><b>Yuanpei College, Peking University</b></p>
       <p><b>wangbx@pku.edu.cn</b></p>
