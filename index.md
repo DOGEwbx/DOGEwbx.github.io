@@ -1,5 +1,6 @@
 ## Welcome to Binguxuan's Homepage
-![photo]("/pro_small_1.jpg")
+
+![photo]("pro_small_1.jpg")
 
 **Bingxuan Wang**
 
@@ -9,8 +10,9 @@ Yuanpei College, Peking University
 
 wangbx@pku.edu.cn
 
-|Bingxuan Wang|![photo]("/pro_small_1.jpg")|
+|Bingxuan Wang|![photo]("pro_small_1.jpg")|
 |:-:|:-:|
+|111|111|
 
 ### Markdown
 
