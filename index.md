@@ -3,14 +3,14 @@
 
 <table border="0">
   <tr>
-    <td width="75%">
-      <h1>Bingxuan Wang</h1>
+    <td width="70%">
+      <h2>Bingxuan Wang</h2>
       <p><b>B.S. Data Science and Big Data Technology</b></p>
       <p><b>Yuanpei College, Peking University</b></p>
       <p><b>wangbx@pku.edu.cn</b></p>
     </td>
-    <td width="25%">
-      <img src="/pro_small_1.jpg" width="200%">      
+    <td width="30%">
+      <img src="/pro_small_1.jpg" width="70%">      
     </td>
   </tr>
 </table>
