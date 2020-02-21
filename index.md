@@ -1,7 +1,5 @@
 ## Welcome to Binguxuan's Homepage
 
-![photo](pro_small_1.jpg)
-
 **Bingxuan Wang**
 
 B.S. Data Science and Big Data Technology
@@ -10,9 +8,9 @@ Yuanpei College, Peking University
 
 wangbx@pku.edu.cn
 
-|Bingxuan Wang|![photo](pro_small_1.jpg)|
+|**Bingxuan Wang**<br/>B.S. Data Science and Big Data Technology<br/>Yuanpei College, Peking University<br/>wangbx@pku.edu.cn|![photo](pro_small_1.jpg)" =400x"|
 |:-:|:-:|
-|111|111|
+
 
 ### Markdown
 
