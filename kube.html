@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bluetooth Search</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <script src="script.js"></script>
+    <p id="pInput">
+        <div class="inputItem">
+            macX:
+            <input type="text" id="textMacX"> 
+        </div>
+        <div class="inputItem">
+            macY:
+            <input type="text" id="textMacY">
+        </div>
+        <div class="inputItem">
+            time from:
+            <input type="datetime-local" id="timeFrom">
+            time to:
+            <input type="datetime-local" id="timeTo">
+        </div> 
+        <input type="button" value="Search" onclick="search()" id="buttonSearch">
+    </p>
+    <p id='pOutput'>
+        <textarea name="output" id="textOutput" cols="100" rows="10"></textarea>
+    </p>
+</body>
+</html>
